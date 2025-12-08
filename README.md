@@ -45,16 +45,14 @@ Passionate software engineering student with a deep love for technology and inno
 
 ## Tech Stack
 
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/cpp.svg?raw=true" alt="C++" width="50" height="50" />
-<img src="./res/image/rust.gif" alt="rust" width="50" height="50" />
-<img src="./res/image/python.gif" alt="python" width="50" height="50" />
-<img src="./res/image/ts.png" alt="typescript" width="50" height="50" />
-<img src="./res/image/flutter.png" alt="python" height="35" />
-
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/postgresql.svg?raw=true" alt="PostgreSQL" width="50" height="50" />
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/git.svg?raw=true" alt="Git" width="50" height="50" />
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/linux.svg?raw=true" alt="Linux" width="50" height="50" />
-
+<img src="./res/image/CPP.svg" alt="CPP" width="32" height="32" />
+<img src="./res/image/Rust.svg" alt="Rust" width="32" height="32" />
+<img src="./res/image/Python.svg" alt="Python" width="32" height="32" />
+<img src="./res/image/TypeScript.svg" alt="TypeScript" width="32" height="32" />
+<img src="./res/image/Dart.svg" alt="Dart" width="32" height="32"/>
+<img src="./res/image/PostgreSQL.svg" alt="PostgreSQL" width="32" height="32"/>
+<img src="./res/image/Git.svg" alt="Git" width="32" height="32"/>
+<img src="./res/image/Linux.svg" alt="Linux" width="32" height="32"/>
 </div>
 
 ---
