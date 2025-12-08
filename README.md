@@ -45,14 +45,14 @@ Passionate software engineering student with a deep love for technology and inno
 
 ## Tech Stack
 
-<img src="./res/image/CPP.svg" alt="CPP" width="32" height="32" />
-<img src="./res/image/Rust.svg" alt="Rust" width="32" height="32" />
-<img src="./res/image/Python.svg" alt="Python" width="32" height="32" />
-<img src="./res/image/TypeScript.svg" alt="TypeScript" width="32" height="32" />
-<img src="./res/image/Dart.svg" alt="Dart" width="32" height="32"/>
-<img src="./res/image/PostgreSQL.svg" alt="PostgreSQL" width="32" height="32"/>
-<img src="./res/image/Git.svg" alt="Git" width="32" height="32"/>
-<img src="./res/image/Linux.svg" alt="Linux" width="32" height="32"/>
+<img src="./res/image/CPP.svg" alt="CPP" width="46" height="46" />
+<img src="./res/image/Rust.svg" alt="Rust" width="46" height="46" />
+<img src="./res/image/Python.svg" alt="Python" width="46" height="46" />
+<img src="./res/image/TypeScript.svg" alt="TypeScript" width="46" height="46" />
+<img src="./res/image/Dart.svg" alt="Dart" width="46" height="46"/>
+<img src="./res/image/PostgreSQL.svg" alt="PostgreSQL" width="46" height="46"/>
+<img src="./res/image/Git.svg" alt="Git" width="46" height="46"/>
+<img src="./res/image/Linux.svg" alt="Linux" width="46" height="46"/>
 </div>
 
 ---
