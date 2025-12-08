@@ -18,18 +18,21 @@
 Passionate software engineering student with a deep love for technology and innovation. As an upcoming 2025 IT graduate from Sana'a University, I'm constantly driven to expand my technical expertise and tackle challenging problems.
 
 ### My Approach
+
 - **Conceptual Learning**: Focus on understanding fundamentals, not just tools
 - **Rapid Adaptation**: Quickly master new technologies and frameworks
 - **Knowledge Sharing**: Document and share insights through technical articles
 - **Impact-Driven**: Build solutions that create real value
 
 ### Currently
+
 - Exploring new technologies and frameworks
 - Documenting my learning journey
 - Seeking impactful internship opportunities
 - Building meaningful projects
 
 ### 🔗 Quick Links
+
 - 📄 [My Resume/CV](https://abdullah-tech.web.app/cv)
 - ✍️ [Technical Articles](https://abdullah-tech.web.app/blog)
 - 💬 [Connect With Me](https://abdullah-tech.web.app/contact)
@@ -40,19 +43,16 @@ Passionate software engineering student with a deep love for technology and inno
 
 <div align="center">
 
-## Languages & Tools
+## Tech Stack
 
 <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/cpp.svg?raw=true" alt="C++" width="50" height="50" />
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/CSharp.svg?raw=true" alt="C#" width="50" height="50" />
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/javascript.svg?raw=true" alt="JavaScript" width="50" height="50" />
-
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/html5.svg?raw=true" alt="HTML5" width="50" height="50" />
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/css3.svg?raw=true" alt="CSS3" width="50" height="50" />
+<img src="./res/image/rust.gif" alt="rust" width="50" height="50" />
+<img src="./res/image/python.gif" alt="python" width="50" height="50" />
+<img src="./res/image/ts.png" alt="typescript" width="50" height="50" />
+<img src="./res/image/flutter.png" alt="python" height="35" />
 
 <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/postgresql.svg?raw=true" alt="PostgreSQL" width="50" height="50" />
-
 <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/git.svg?raw=true" alt="Git" width="50" height="50" />
-<img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/github.svg?raw=true" alt="GitHub" width="50" height="50" />
 <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/linux.svg?raw=true" alt="Linux" width="50" height="50" />
 
 </div>
@@ -65,8 +65,8 @@ Passionate software engineering student with a deep love for technology and inno
 
 ### Development Activity
 
-| Top Languages | GitHub Stats |
-|---------------|--------------|
+| Top Languages                                                                                                                                    | GitHub Stats                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNamespace&layout=compact&langs_count=8&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahNamespace&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) |
 
 ### Contribution Streak
