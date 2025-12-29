@@ -50,7 +50,6 @@ Passionate software engineering student with a deep love for technology and inno
 <img src="./res/image/TypeScript.svg" alt="TypeScript" width="46" height="46" />
 <img src="./res/image/Dart.svg" alt="Dart" width="46" height="46"/>
 <img src="./res/image/PostgreSQL.svg" alt="PostgreSQL" width="46" height="46"/>
-<img src="./res/image/Git.svg" alt="Git" width="46" height="46"/>
 <img src="./res/image/Linux.svg" alt="Linux" width="46" height="46"/>
 </div>
 
