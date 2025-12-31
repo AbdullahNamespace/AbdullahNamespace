@@ -36,13 +36,12 @@ Passionate software engineering student with a deep love for technology and inno
 - 📄 [My Resume/CV](https://abdullah-tech.web.app/cv)
 - ✍️ [Technical Articles](https://abdullah-tech.web.app/blog)
 - 💬 [Connect With Me](https://abdullah-tech.web.app/contact)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-abdulkhaleq/)
 
-<br clear="right" />
-
----
 
 <div align="center">
 
+---
 ## Tech Stack
 
 <img src="./res/image/Rust.svg" alt="Rust" width="46" height="46" />
@@ -55,48 +54,7 @@ Passionate software engineering student with a deep love for technology and inno
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
-
-### Development Activity
-
-| Top Languages                                                                                                                                    | GitHub Stats                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNamespace&layout=compact&langs_count=8&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahNamespace&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) |
-
-### Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahNamespace&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AbdullahAbdulkhaleq&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Connect!
-
-<p align="center">
-  <a href="https://abdullah-tech.web.app/contact">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/abdullah-abdulkhaleq/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
 
 ### Thanks for visiting my profile!😊 Let's build something amazing together!
 
