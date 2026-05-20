@@ -29,7 +29,6 @@ As a recent Software Engineering graduate from Sana'a University (Class of 2025)
 ## Tech Stack
 
 <p align="center">
-    <img src="./res/image/Rust.svg" alt="Rust" width="46" height="46" />
     <img src="./res/image/golang.svg" alt="Rust" width="46" height="46" />
     <img src="./res/image/TypeScript.svg" alt="TypeScript" width="46" height="46" />
     <img src="./res/image/Dart.svg" alt="Dart" width="46" height="46"/>
