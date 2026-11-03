@@ -76,10 +76,9 @@ console.log("A strong foundation builds an unshakable future.");
 
 ## 🔗 Quick Links
 
-- 📄 [Resume/CV](https://abdullah-tech.web.app/cv)
-- ✍️ [Technical Blog](https://abdullah-tech.web.app/blog)
-- 💬 [Contact Me](https://abdullah-tech.web.app/contact)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-abdulkhaleq/)
+- 📄 [Resume/CV](https://AbdullahNamespace.web.app/cv)
+- ✍️ [Technical Blog](https://AbdullahNamespace.web.app/blog)
+- 💬 [Contact Me](https://AbdullahNamespace.web.app/contact)
 
 ---
 
