@@ -84,6 +84,6 @@ console.log("A strong foundation builds an unshakable future.");
 
 <div align="center">
 
-### Thanks for visiting my profile! 😊 Let's build something amazing together! 🤝
+### Every great project starts with a single commit. Let’s make the first one together. 🤝
 
 </div>
